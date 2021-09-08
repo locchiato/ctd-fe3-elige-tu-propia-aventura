@@ -9,7 +9,7 @@
   box-sizing: border-box;
   background-color: var(--primary-color);
   color: var(--secondary-color);
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .layout {
