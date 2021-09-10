@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fe3-cyoa-occhiato/static/css/main.900429e0.chunk.css",
+    "main.css": "/fe3-cyoa-occhiato/static/css/main.b9e8468d.chunk.css",
     "main.js": "/fe3-cyoa-occhiato/static/js/main.2946319e.chunk.js",
     "main.js.map": "/fe3-cyoa-occhiato/static/js/main.2946319e.chunk.js.map",
     "runtime-main.js": "/fe3-cyoa-occhiato/static/js/runtime-main.10563ccc.js",
@@ -8,13 +8,13 @@
     "static/js/2.7db1b2b8.chunk.js": "/fe3-cyoa-occhiato/static/js/2.7db1b2b8.chunk.js",
     "static/js/2.7db1b2b8.chunk.js.map": "/fe3-cyoa-occhiato/static/js/2.7db1b2b8.chunk.js.map",
     "index.html": "/fe3-cyoa-occhiato/index.html",
-    "static/css/main.900429e0.chunk.css.map": "/fe3-cyoa-occhiato/static/css/main.900429e0.chunk.css.map",
+    "static/css/main.b9e8468d.chunk.css.map": "/fe3-cyoa-occhiato/static/css/main.b9e8468d.chunk.css.map",
     "static/js/2.7db1b2b8.chunk.js.LICENSE.txt": "/fe3-cyoa-occhiato/static/js/2.7db1b2b8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.10563ccc.js",
     "static/js/2.7db1b2b8.chunk.js",
-    "static/css/main.900429e0.chunk.css",
+    "static/css/main.b9e8468d.chunk.css",
     "static/js/main.2946319e.chunk.js"
   ]
 }
