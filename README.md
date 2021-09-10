@@ -36,9 +36,9 @@
 -   A medida que hagas elecciones "A" o "B", estas se irán registrando de la siguiente manera:
     
 
--   Se muestra en pantalla la última elección que realizó el usuario (por ejemplo, "Selección previa: A").
+-   Se muestra en pantalla la última elección que realizó el usuario (por ejemplo, "Última selección: A").
     
--   Se muestran todas las selecciones anteriores (por ejemplo, "Anteriores: A B A").
+-   Se muestran todas las selecciones anteriores (por ejemplo, "Historial: A B A").
    
     
 
