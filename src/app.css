@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Dosis&display=swap");
+
 :root {
   --primary-color: black;
   --secondary-color: white;
@@ -9,7 +11,7 @@
   box-sizing: border-box;
   background-color: var(--primary-color);
   color: var(--secondary-color);
-  font-family: Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Dosis";
 }
 
 .layout {
