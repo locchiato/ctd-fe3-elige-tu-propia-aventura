@@ -1,4 +1,4 @@
-# fe3-cyoa-occhiato
+#ctd-fe3-elige-tu-propia-aventura
 
 **Primer evaluación entregable de Front-end III para C.T.D.**
  
